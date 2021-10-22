@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kseniia-ak
-- 👀 I’m interested in Data Scienece, ML and finance
+- 👀 I’m interested in Data Scienece, ML and Finance
 - 🌱 I’m currently learning Deep Learning methods
 
 
